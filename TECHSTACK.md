@@ -1,6 +1,6 @@
 # Technology Stack
 
-## 🌐 Frontend
+## Frontend
 
 ### React.js
 - **Purpose**: Building interactive user interfaces
