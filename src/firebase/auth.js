@@ -19,7 +19,7 @@ export const doSignInWithGoogle = async () => {
   const provider = new GoogleAuthProvider();
   return signInWithPopup(auth, provider);
 };
-
+// updated 
 export const doSignOut = () => {
   return signOut(auth);
 };
