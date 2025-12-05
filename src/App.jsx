@@ -62,7 +62,7 @@ function App() {
               </ProtectedRoute>
             }
           />
-
+          // Fixed routes
           <Route
             path="/compliance"
             element={
