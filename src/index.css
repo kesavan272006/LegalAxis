@@ -39,8 +39,6 @@ button {
 .rounded-2xl {
   border-radius: 16px !important;
 }
-/* Global link and button reset */
-/* Color fallbacks */
 .bg-\[#f3cf1a\] {
   background-color: #f3cf1a !important;
 }
