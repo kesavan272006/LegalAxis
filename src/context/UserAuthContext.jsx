@@ -10,7 +10,7 @@ import {
 import { auth } from "../firebase/firebase";
 
 const UserAuthContext = createContext();
-
+// Thsi is used to provide correct context
 
 export function UserAuthContextProvider({ children }) {
   const [user, setUser] = useState(null);
