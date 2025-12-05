@@ -1,7 +1,5 @@
 # LegalAxis - AI-Powered Legal Assistant Platform
 
-![LegalAxis Banner](https://i.imgur.com/placeholder-banner.png)
-
 LegalAxis is a comprehensive AI-powered legal assistance platform designed to streamline legal processes, enhance collaboration, and provide intelligent document management for legal professionals and organizations.
 
 ## 🚀 Key Features
